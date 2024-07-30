@@ -7,7 +7,7 @@ Software Developer
 I'm a 25 year old software developer with a strong passion for frontend development.
 
 *   🌍  I'm based in Sydney, AU
-*   🖥️  See my portfolio at [Andrew's E-Portfolio]([http://https://andrew-karvelis.github.io/Eportfolio](https://andrew-karvelis.github.io/Eportfolio/))
+*   🖥️  See my portfolio at [Andrew's E-Portfolio] ([http://https://andrew-karvelis.github.io/Eportfolio](https://andrew-karvelis.github.io/Eportfolio/)
 *   ✉️  You can contact me at [akarvelis.work@gmail.com](mailto:akarvelis.work@gmail.com)
 *   🧠  I'm learning TypeScript
 
