@@ -4,7 +4,7 @@ Hi 👋 My name is Andrew Karvelis
 Software Developer
 ------------------
 
-I'm a 25 year old software developer with a strong passion for frontend development.
+I'm a 26 year old software developer with a strong passion for frontend development.
 
 *   🌍  I'm based in Sydney, AU
 *   🖥️  See my portfolio at [Andrew's E-Portfolio](https://andrew-karvelis.github.io/Eportfolio/)
